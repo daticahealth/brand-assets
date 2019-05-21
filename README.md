@@ -1,5 +1,7 @@
 # Datica Brand Assets
 
+Click the download button in the repository for an easy [zip download](https://github.com/daticahealth/brand-assets/archive/master.zip) of the entire thing. 
+
 ### For marketing and partner use
 
 <img src="assets/datica-branding-share-github.png" alt="datica branding" width="480" />
