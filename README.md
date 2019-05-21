@@ -6,8 +6,6 @@ Click the download button in the repository for an easy [zip download](https://g
 
 ### For marketing and partner use
 
-<img src="assets/datica-branding-share-github.png" alt="datica branding" width="480" />
-
 This repository is the primary location for downloading Datica brand assets like logos, color swatches, textures, and other brand elements.
 
 ### Typefaces
